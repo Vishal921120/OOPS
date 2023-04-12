@@ -1,0 +1,52 @@
+Object-Oriented Programming (OOP) is a programming paradigm(ˈपैरडाइम्) that emphasizes the use of objects and their interactions to solve complex problems. 
+Java is a popular object-oriented programming language that supports all the major features of OOP, including:
+
+1. Encapsulation: This is the practice of keeping the implementation details of a class hidden from the outside world. 
+   In Java, encapsulation is achieved through the use of "access modifiers" such as public, private, and protected.
+
+2. Inheritance: This is the ability of a class to inherit properties and behavior from a parent class.
+   In Java, inheritance is achieved using the "extends" keyword.
+
+3. Polymorphism: This is the ability of objects of different classes to be used interchangeably. 
+   In Java, polymorphism is achieved through method overloading and method overriding.
+
+4. Abstraction: This is the process of simplifying complex systems by modeling them with simpler, higher-level concepts. 
+   In Java, abstraction is achieved through the use of abstract classes and interfaces.
+
+Here are some key terms and concepts related to OOP in Java:
+* Class: A class is a blueprint for creating objects. 
+         It defines the properties and methods that the objects will have.
+
+* Object: An object is an instance of a class. It has its own set of properties 
+          and can call the methods defined by its class.
+
+* Constructor: A constructor is a special method that is called when an object is created. 
+               It is used to initialize the object's properties.
+
+* Method: A method is a function that is associated with a class. It defines the behavior of the class.
+
+* Access modifiers: Access modifiers control the visibility of a class's properties and methods. 
+                    The three access modifiers in Java are public, private, and protected.
+
+* Inheritance: Inheritance is the ability of a class to inherit properties and methods from a parent class.
+
+* Interface: An interface is a collection of abstract methods that define a set of behaviors. 
+             A class can implement an interface to provide the implementation for those behaviors.
+
+* Abstract class: An abstract class is a class that cannot be instantiated. 
+                  It is used as a base class for other classes to inherit from.
+
+* Polymorphism: Polymorphism is the ability of objects of different classes to be used interchangeably. 
+                In Java, this is achieved through method overloading and method overriding.
+
+Overall, OOP is a powerful paradigm that allows developers to create complex systems with ease. 
+Java is a popular language for OOP because of its strong support for the key OOP concepts 
+and its wide range of libraries and tools.
+
+
+***
+What is a Programming Paradigm? 
+Programming paradigms are different ways or styles in which a given program or programming language can be organized. 
+Each paradigm consists of certain structures, features, and opinions about how common programming problems should be tackled
+
+Paradigm meaning :- a typical example or pattern of something , a set of all the different forms of a word
